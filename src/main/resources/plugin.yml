@@ -1,0 +1,9 @@
+name: TonaDice
+version: ${project.version}
+main: com.gmai.tonatumi.tonadice.TonaDice
+prefix: §e[となダイス]
+commands:
+  tdice:
+    description: tdice <面数> で任意のダイスが振れます。
+    usage: /<command>
+    default : true

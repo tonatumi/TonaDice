@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TonaDice">
+    <output-path>$PROJECT_DIR$/out/artifacts/TonaDice</output-path>
+    <root id="archive" name="TonaDice.jar">
+      <element id="module-output" name="TonaDice" />
+    </root>
+  </artifact>
+</component>
